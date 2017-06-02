@@ -1,0 +1,7 @@
+Nombre: Dennis
+
+Edad: 19
+
+
+Coco:  10.0
+Total: 10.0
